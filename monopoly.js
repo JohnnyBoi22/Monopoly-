@@ -1,3 +1,4 @@
+/monopoly/
 function Game() {
 	var die1;
 	var die2;
